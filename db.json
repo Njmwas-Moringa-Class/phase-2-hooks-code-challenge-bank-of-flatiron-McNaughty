@@ -83,6 +83,62 @@
       "description": "Venmo, Pay Roommate for Rent",
       "category": "Housing",
       "amount": -975
+    },
+    {
+      "date": "",
+      "description": "",
+      "category": "",
+      "amount": "",
+      "id": 13
+    },
+    {
+      "date": "",
+      "description": "",
+      "category": "",
+      "amount": "",
+      "id": 14
+    },
+    {
+      "date": "",
+      "description": "",
+      "category": "",
+      "amount": "",
+      "id": 15
+    },
+    {
+      "date": "",
+      "description": "",
+      "category": "",
+      "amount": "",
+      "id": 16
+    },
+    {
+      "date": "",
+      "description": "",
+      "category": "",
+      "amount": "",
+      "id": 17
+    },
+    {
+      "date": "2023-12-09",
+      "description": "Pay James Maina",
+      "category": "Rent",
+      "amount": "65000",
+      "id": 18
+    },
+    {
+      "date": "2023-12-09",
+      "description": "Tammie BIrthday",
+      "category": "Celebration",
+      "amount": "18000",
+      "id": 19
+    },
+    {
+      "date": "2023-12-10",
+      "description": "Dexter's boardin",
+      "category": "Housing",
+      "amount": "8350",
+      "id": 20
     }
   ]
 }
